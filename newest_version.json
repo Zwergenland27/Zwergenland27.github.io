@@ -1,8 +1,8 @@
 {
     "app_version_name": "1.6.5.1",
-    "app_version_code": 22,
+    "app_version_code": 21,
     "pc_version_name": "1.2",
     "pc_version_code": 3,
-    "compatible_app_code": 21,
+    "compatible_app_code": 22,
     "compatible_pc_code": 3
 }
