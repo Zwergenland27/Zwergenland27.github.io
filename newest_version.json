@@ -2,13 +2,13 @@
   "app": {
     "version_name": "1.6.5.1",
     "version_code": 21,
-    "compatible_app": ">20",
-    "compatible_pc": ">2"
   },
   "pc": {
     "version_name": "1.2",
     "version_code": 3,
-    "compatible_app": ">20",
-    "compatible_pc": ">2"
+  },
+  "compatible": {
+    "app_code": 21,
+    "pc_code": 3
   }
 }
