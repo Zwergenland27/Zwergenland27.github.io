@@ -6,6 +6,14 @@
    {
      "name": "school",
      "version": 1
+   },
+   {
+     "name": "house",
+     "version": 1
+   },
+   {
+     "name": "gift",
+     "version": 1
    }
  ]
 }
